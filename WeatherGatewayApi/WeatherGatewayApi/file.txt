@@ -1,0 +1,2 @@
+<no type>.lambda_method => WeatherController.Get => Logger1.Log This is test info log
+<no type>.lambda_method => WeatherController.Get => Logger1.Log Weather Controller - Begin

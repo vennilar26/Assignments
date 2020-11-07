@@ -1,0 +1,29 @@
+﻿@model WeatherMap.Models.PollutionViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+<table>
+    <tr>
+        <th>Lattitude</th>
+        <th>@Html.TextBoxFor(m => m.Latitude)</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <th>Longitude</th>
+        <th>@Html.TextBoxFor(m => m.Longitude)</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <th>Result</th>
+        <th>@Html.DisplayFor(m => m.response)</th>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Submit" /></td>
+    </tr>
+</table>
+}

@@ -1,0 +1,9 @@
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\bin\Debug\Logging.exe.config
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\bin\Debug\Logging.exe
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\bin\Debug\Logging.pdb
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\bin\Debug\NLog.dll
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\bin\Debug\NLog.xml
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\obj\Debug\Logging.csproj.CopyComplete
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\obj\Debug\Logging.exe
+C:\Users\vennila\source\repos\WeatherGatewayApi\Logging\obj\Debug\Logging.pdb

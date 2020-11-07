@@ -1,0 +1,7 @@
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\bin\Debug\BusinessEntities.dll.config
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\vennila\source\repos\WeatherGatewayApi\BusinessEntities\obj\Debug\BusinessEntities.pdb

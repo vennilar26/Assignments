@@ -1,0 +1,89 @@
+2020-11-07 16:41:39.1822|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:41:39.2190|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:41:39.2458|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:41:39.2458|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:41:53.5938|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:41:53.6239|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:41:53.6368|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:41:53.6368|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:42:10.2466|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:42:10.2801|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:42:10.2981|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:42:10.2981|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:42:27.8880|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:42:27.9156|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:42:27.9366|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:42:27.9366|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:42:51.9923|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:42:52.0207|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:42:52.0551|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:42:52.0551|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:43:53.4033|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:43:53.4378|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:43:53.4541|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:43:53.4541|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:44:24.3496|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:44:24.3804|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:44:24.4021|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:44:24.4021|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:46:25.6551|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:46:25.6852|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:46:25.6990|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:46:25.6990|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:46:27.2272|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Response :StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  X-Cache-Key: /pollution/v1/o3/Sydney,australia,/Z.json?
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Methods: GET, POST
+  Date: Sat, 07 Nov 2020 11:16:26 GMT
+  Server: openresty
+  Content-Length: 56
+  Content-Type: application/json; charset=utf-8
+}
+2020-11-07 16:46:27.2272|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|End
+2020-11-07 16:46:27.2272|Info|MoveNextRunner.InvokeMoveNext => <Post>d__3.MoveNext => Logger1.Log|Return message from service layer :ServiceLayer.PollutionResponse
+2020-11-07 16:46:27.2726|Info|MoveNextRunner.InvokeMoveNext => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - End
+2020-11-07 16:47:23.4245|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:47:23.4574|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:47:25.0380|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:47:25.0380|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/Sydney,australia,/Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:47:25.5505|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Response :StatusCode: 400, ReasonPhrase: 'Bad Request', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  X-Cache-Key: /pollution/v1/o3/Sydney,australia,/Z.json?
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Methods: GET, POST
+  Date: Sat, 07 Nov 2020 11:17:24 GMT
+  Server: openresty
+  Content-Length: 56
+  Content-Type: application/json; charset=utf-8
+}
+2020-11-07 16:47:25.5608|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|End
+2020-11-07 16:47:25.5608|Info|MoveNextRunner.InvokeMoveNext => <Post>d__3.MoveNext => Logger1.Log|Return message from service layer :ServiceLayer.PollutionResponse
+2020-11-07 16:47:25.6047|Info|MoveNextRunner.InvokeMoveNext => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - End
+2020-11-07 16:49:18.9798|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:49:19.0135|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:49:19.0266|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:49:19.0266|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/12.8,77/2020-11-07Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:49:51.3201|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - Begin
+2020-11-07 16:49:51.3548|Info|AsyncTaskMethodBuilder`1.Start => <Post>d__3.MoveNext => Logger1.Log|WeatherGatewayApi.Models.RequestModel
+2020-11-07 16:50:03.4069|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Begin
+2020-11-07 16:50:03.4069|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|URI :http://api.openweathermap.org/pollution/v1/o3/12.8,77/2020-11-07Z.json?appid=ee00fb47757b05782a72d6161eb3c04f
+2020-11-07 16:50:04.5263|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|Response :StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  X-Cache-Key: /pollution/v1/o3/12.8,77/2020-11-07Z.json?
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Methods: GET, POST
+  Date: Sat, 07 Nov 2020 11:20:03 GMT
+  Server: openresty
+  Content-Length: 24
+  Content-Type: application/json; charset=utf-8
+}
+2020-11-07 16:50:04.5263|Info|<>c__DisplayClass3_0.<Post>b__0 => Pollution.GetPollutionByGeographic => Logger1.Log|End
+2020-11-07 16:50:04.5263|Info|MoveNextRunner.InvokeMoveNext => <Post>d__3.MoveNext => Logger1.Log|Return message from service layer :ServiceLayer.PollutionResponse
+2020-11-07 16:50:04.5735|Info|MoveNextRunner.InvokeMoveNext => <Post>d__3.MoveNext => Logger1.Log|Weather Controller - End

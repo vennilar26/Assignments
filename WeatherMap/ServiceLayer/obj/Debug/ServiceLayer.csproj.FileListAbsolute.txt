@@ -1,0 +1,10 @@
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\vennila\source\repos\WeatherMap\ServiceLayer\obj\Debug\ServiceLayer.pdb
